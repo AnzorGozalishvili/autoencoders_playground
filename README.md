@@ -1,6 +1,3 @@
-# autoencoders_playground
-Playing with several types of autoencoders with supervised, unsupervised and semi-supervised learning objectives.
-
 # Overview
 Here we play with different types of AutoEncoders: Vanilla AutoEncoder (AE), Variational AutoEncoder (VAE), 
 Vector Quantized Variational AutoEncoder (VQ-VAE).
